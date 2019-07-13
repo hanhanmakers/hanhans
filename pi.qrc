@@ -1,0 +1,65 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/background.png</file>
+        <file>res/background2.png</file>
+        <file>res/background3.png</file>
+        <file>res/Christopher Larkin - White Defender [低质量].wav</file>
+        <file>res/Christopher Larkin - White Defender [低质量]~1 [低质量].wav</file>
+        <file>res/Christopher Larkin - White Defender [低质量]~1.wav</file>
+        <file>res/Christopher Larkin - White Defender.MP3</file>
+        <file>res/Christopher Larkin - White Defender.pkf</file>
+        <file>res/Christopher Larkin - White Defender.wav</file>
+        <file>res/enemy.png</file>
+        <file>res/enemy1.png</file>
+        <file>res/enemy1x.png</file>
+        <file>res/gif5新文件 (1).gif</file>
+        <file>res/gif5新文件 (2).gif</file>
+        <file>res/gif5新文件 (3).gif</file>
+        <file>res/gif5新文件 (4).gif</file>
+        <file>res/gif5新文件 (6).gif</file>
+        <file>res/gif5新文件 (7).gif</file>
+        <file>res/gif5新文件 (8).gif</file>
+        <file>res/ok.jpg</file>
+        <file>res/pet.png</file>
+        <file>res/quit.PNG</file>
+        <file>res/skill.png</file>
+        <file>res/skillnot.png</file>
+        <file>res/skillpress.png</file>
+        <file>res/sound.PNG</file>
+        <file>res/soundstop.PNG</file>
+        <file>res/爆炎莲华.gif</file>
+        <file>res/冰爆术.gif</file>
+        <file>res/电能激荡.gif</file>
+        <file>res/焚天君焱.gif</file>
+        <file>res/负电极.gif</file>
+        <file>res/鬼灵冷火.gif</file>
+        <file>res/火焰爆炸.gif</file>
+        <file>res/绝命火焰.gif</file>
+        <file>res/雷神天明闪.gif</file>
+        <file>resources/pic/08a.jpg</file>
+        <file>resources/pic/attack.png</file>
+        <file>resources/pic/back.png</file>
+        <file>resources/pic/baoshi.png</file>
+        <file>resources/pic/BOSS.png</file>
+        <file>resources/pic/core.jpg</file>
+        <file>resources/pic/defence.png</file>
+        <file>resources/pic/floor.png</file>
+        <file>resources/pic/forth.jpg</file>
+        <file>resources/pic/forward.png</file>
+        <file>resources/pic/key.png</file>
+        <file>resources/pic/left.png</file>
+        <file>resources/pic/leftwindow.png</file>
+        <file>resources/pic/mon1.png</file>
+        <file>resources/pic/mon1l.png</file>
+        <file>resources/pic/mon2.png</file>
+        <file>resources/pic/mon3.png</file>
+        <file>resources/pic/mon4.png</file>
+        <file>resources/pic/right.png</file>
+        <file>resources/pic/rightwindow.png</file>
+        <file>resources/pic/sec.jpg</file>
+        <file>resources/pic/skill1.png</file>
+        <file>resources/pic/third.jpg</file>
+        <file>resources/pic/wall.png</file>
+        <file>resources/pic/water.png</file>
+    </qresource>
+</RCC>
